@@ -1,2 +1,2 @@
-arrays: 
-	deno run arrays-and-strings/$(exercise).ts
+run: 
+	deno run ${chapter}/$(exercise).ts
