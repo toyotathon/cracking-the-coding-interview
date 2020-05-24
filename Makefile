@@ -1,2 +1,2 @@
 run: 
-	deno run ${chapter}/$(exercise).ts
+	deno run --allow-read ${chapter}/$(exercise).ts

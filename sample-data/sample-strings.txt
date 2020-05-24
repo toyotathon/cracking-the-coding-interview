@@ -1,0 +1,3 @@
+this is a sample string
+a string on a new line
+abcd
