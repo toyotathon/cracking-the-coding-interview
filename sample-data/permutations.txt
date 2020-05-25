@@ -1,0 +1,3 @@
+tacocat, tacocat
+abcd, dcba
+not a, permutation
